@@ -1,0 +1,27 @@
+.footer-container{
+    width: 100vw;
+    height: auto;
+    background-color: #313131;
+    color: white;
+}
+
+.feedback-part{
+    width: 200px;
+    height: auto;
+}
+
+.feedback-form{
+    width: 350px;
+}
+
+.feedback-text,.labelTxt{
+    color: white;
+}
+
+
+.footer-part2{
+    width: 200px;
+    height: auto;
+}
+
+
